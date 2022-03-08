@@ -1,4 +1,4 @@
-function punto11(tamaño,lista)
+function Lista(tamaño,lista)
 {
     let precioTotal = 0
     let precio = 0
